@@ -31,7 +31,7 @@ Some of the key features of this project are: <br>
 
 1. Clone the repository
    ```
-   git clone https://github.com/oTitanium/TaskManager.git
+   git clone https://github.com/nksharma9/TaskManager.git
    ```
 2. Navigate to the folder using Terminal
    ```
